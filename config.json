@@ -1,4 +1,4 @@
 {
-  "dl": "https://github.com/guscastles/registry-index/api/v1/crates",
-  "api": "https://github.com/guscastles/registry-index.git"
+  "dl": "https://registry-index/api/v1/crates",
+  "api": "https://registry-index/"
 }
