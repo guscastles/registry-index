@@ -1,1 +1,4 @@
-{"domain": "my-awesome-registry"}
+{
+  "dl": "https://my-awesome-registry.crates.io/api/v1/crates",
+  "api": "https://my-awesome-registry.crates.io/"
+}
