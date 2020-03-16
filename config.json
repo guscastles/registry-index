@@ -1,4 +1,4 @@
 {
-  "dl": "https://my-awesome-registry.crates.io/api/v1/crates",
-  "api": "https://my-awesome-registry.crates.io"
+  "dl": "https://github.com/guscastles/registry-index.git/api/v1/crates",
+  "api": "https://github.com/guscastles/registry-index.git"
 }
